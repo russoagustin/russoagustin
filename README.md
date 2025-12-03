@@ -45,4 +45,4 @@ I'm a Computer Engineering student with a focus on backend development.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-agustin-russo/)
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=russoagustin&layout=compact&theme=dark">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=russoagustin&layout=compact&langs_count=8&theme=algolia"/>
